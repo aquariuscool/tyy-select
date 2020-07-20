@@ -1,0 +1,22 @@
+{
+    "name": "shenhai1120/tyy-select",
+    "description": "多级联动",
+    "keywords": ["yii", "select"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/shenhai1120/tyy-select/issues",
+        "source": "https://github.com/shenhai1120/tyy-select"
+    },
+    "authors": [
+        {
+            "name": "tyy",
+            "email": "649909457@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sh\\cxselect\\": ""
+        }
+    }
+}
